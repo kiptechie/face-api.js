@@ -33,7 +33,7 @@
   "author": "justadudewhohacks",
   "license": "MIT",
   "dependencies": {
-    "@tensorflow/tfjs-core": "1.4.0",
+    "@tensorflow/tfjs-core": "1.7.4",
     "tslib": "^1.10.0"
   },
   "devDependencies": {
